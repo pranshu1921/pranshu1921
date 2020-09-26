@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Pandas" alt="Scala" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/pandas.png" width="40" height="40" />
-	<img title="Numpy" alt="Python" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/numpy.png" width="40" height="40" />
+	<img title="Pandas" alt="Scala" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/pandas.png" width="80" height="40" />
+	<img title="Numpy" alt="Python" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/numpy.png" width="80" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="matplotlib" alt="Bitbucket" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/matplotlib.png" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="seaborn" alt="Bamboo" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/seaborn.png" width="40" height="40" />	
-	<img title="scipy" alt="AWS" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.png" width="60" height="40" />
+	<img title="seaborn" alt="Bamboo" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/seaborn.png" width="80" height="40" />	
+	<img title="scipy" alt="AWS" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.png" width="80" height="40" />
 </p>
 
 

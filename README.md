@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	<img title="Pandas" alt="Scala" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/pandas.png" width="90" height="50" />
 	<img title="Numpy" alt="Python" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/numpy.png" width="90" height="50" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="matplotlib" alt="matplot" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/matplotlib.png" height="50" />
+	<img title="matplotlib" alt="matplot" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/matplotlib.png" height="80" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="seaborn" alt="sea" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/seaborn.png" width="90" height="50" />	
 	<img title="scipy" alt="scipy" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.png" width="80" height="40" />

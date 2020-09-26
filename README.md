@@ -36,7 +36,7 @@ An aspiring data scientist passionate about Data Science : I like building robus
 
 <br>
 <br>
-**If you find anything that grabs your attention, leave a :star: or fork -ing would be really appreciated.
+**If you find anything that grabs your attention, leave a :star: or fork-ing would be really appreciated.**
 <hr>
 <br>
 <br>

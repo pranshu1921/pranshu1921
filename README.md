@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pranshu Kumar
 
-An aspiring data scientist passionate about Data Science : I like building orbust machine learning solutions for improving efficiency and performance for all domains. Strong Advocate for 📜 open source, Innovation and Automation, and the future of AI 
+An aspiring data scientist passionate about Data Science : I like building robust machine learning solutions for improving efficiency and performance for all domains. Strong Advocate for 📜 open source, Innovation and Automation, and the future of AI 
 <!--
 **pranshu1921/pranshu1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

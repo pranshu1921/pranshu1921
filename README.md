@@ -1,19 +1,15 @@
 ### Hi there 👋 I'm Pranshu Kumar
 
-An aspiring data scientist passionate about Data Science : I like building robust machine learning solutions for improving efficiency and performance for all domains. Strong Advocate for 📜 open source, Innovation and Automation, and the future of AI 
+An aspiring data scientist passionate about Data Science : I like building robust machine learning solutions for improving efficiency and performance for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
 
 
 - 🔭 I’m currently working on building my portfolio thorough extensive deep learning projects
-
-- 🌱 I’m currently learning Deep Learning, Image Classification
 
 - 👯 I’m looking to collaborate on an interesting music based deep learning solution
 
 - 💬 Ask me about music, movies, anything that interests you !
 
 - 📫 How to reach me: shoot an email at pranshu1921@gmail.com
-
-- 😄 Pronouns: He/Him/His
 
 <br>
 <br>

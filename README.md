@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pranshu Kumar
+### Hi there 👋 I'm Pranshu Kumar Premi
 
 An aspiring data scientist passionate about Data Science : I contribute towards building robust machine learning solutions for improving business efficiency and customer retention for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
 

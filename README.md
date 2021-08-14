@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pranshu Kumar
 
-An aspiring data scientist passionate about Data Science : I like building robust machine learning solutions for improving efficiency and performance for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
+An aspiring data scientist passionate about Data Science : I contribute towards building robust machine learning solutions for improving business efficiency and customer retention for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
 
 
 - 🔭 I’m currently working on building my portfolio thorough extensive deep learning projects

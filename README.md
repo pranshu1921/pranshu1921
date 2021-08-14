@@ -24,7 +24,7 @@ An aspiring data scientist passionate about Data Science : I contribute towards 
 	<img title="matplotlib" alt="matplot" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/matplotlib.png" height="60" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="seaborn" alt="sea" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/seaborn.png" width="90" height="50" />	
-	<img title="scipy" alt="scipy" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.png" width="80" height="40" />
+	<img title="scipy" alt="scipy" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.jpg" width="80" height="40" />
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 </p>

@@ -5,9 +5,9 @@ An aspiring data scientist passionate about Data Science : I like building robus
 
 - 🔭 I’m currently working on building my portfolio thorough extensive deep learning projects
 
-- 👯 I’m looking to collaborate on an interesting music based deep learning solution
+- 👯 I’m looking to collaborate on an interesting fintech based machine learning business solutions
 
-- 💬 Ask me about music, movies, anything that interests you !
+- 💬 Ask me about data, AI, Analytics, Machine Learning & anything similar that interests you !
 
 - 📫 How to reach me: shoot an email at pranshu1921@gmail.com
 

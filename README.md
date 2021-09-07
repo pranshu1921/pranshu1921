@@ -3,7 +3,7 @@
 An aspiring data scientist passionate about Data Science : I contribute towards building robust machine learning solutions for improving business efficiency and customer retention for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
 
 
-- 🔭 I’m currently working on building my portfolio thorough extensive deep learning projects
+- 🔭 I’m currently working on building my portfolio thorough extensive machine learning projects
 
 - 👯 I’m looking to collaborate on an interesting fintech based machine learning business solutions
 

@@ -1,47 +1,112 @@
-### Hi there 👋 I'm Pranshu Kumar Premi
+# Hi, I'm Pranshu Kumar Premi 👋  
+### Data Scientist • AI Engineer • Applied ML & GenAI Systems
 
-An aspiring data scientist passionate about Data Science : I contribute towards building robust machine learning solutions for improving business efficiency and customer retention for all domains. Strong Advocate for Innovation and Automation, and the future of AI 
+I design, build, and deploy **production-grade machine learning and AI systems** that solve real business problems at scale.  
+My work spans **classical ML, LLM-based systems, data pipelines, and MLOps**, with a strong focus on **robustness, performance, and real-world impact**.
 
+🎯 **Currently focused on**:  
+- LLM-powered applications (RAG, agents, evaluation frameworks)  
+- Scalable ML pipelines & feature engineering  
+- AI system design for data-intensive products  
 
-- 🔭 I’m currently working on building my portfolio thorough extensive machine learning projects
+📍 United States | Open to Remote & Hybrid roles
 
-- 👯 I’m looking to collaborate on an interesting fintech based machine learning business solutions
+---
 
-- 💬 Ask me about data, AI, Analytics, Machine Learning & anything similar that interests you !
+## 🧠 What I Work On
 
-- 📫 How to reach me: shoot an email at pranshu1921@gmail.com
+- **Applied Machine Learning**: predictive modeling, NLP, feature engineering, experimentation
+- **Generative AI & LLMs**: RAG pipelines, agentic systems, prompt engineering, evaluation
+- **Production ML Systems**: model deployment, monitoring, CI/CD, data pipelines
+- **Data Engineering for ML**: SQL-first design, ETL, analytics-ready datasets
 
-<br>
-<br>
+I care deeply about **clean abstractions, reproducibility, and measurable outcomes**.
 
-### My skills include -
+---
 
-<p align="center">
-	<img title="Pandas" alt="Scala" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/pandas.jpg" width="100" height="50" />
-	<img title="Numpy" alt="Python" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/numpy.jpeg" width="90" height="50" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="matplotlib" alt="matplot" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/matplotlib.png" height="60" />
-	<br />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="seaborn" alt="sea" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/seaborn.png" width="90" height="50" />	
-	<img title="scipy" alt="scipy" src="https://github.com/pranshu1921/pranshu1921/blob/master/pictures/scipy.jpg" width="80" height="40" />
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-</p>
+## 🚀 Featured Projects
 
+> These repositories reflect how I think about **real-world AI systems**, not toy demos.
 
+### 🔹 LLM-Powered Knowledge Assistant (RAG)
+**Tech**: Python, FastAPI, OpenAI / OSS LLMs, Vector DB, Docker  
+- End-to-end Retrieval-Augmented Generation pipeline  
+- Document ingestion, chunking, embeddings, retrieval, and evaluation  
+- Production-ready API with monitoring hooks  
 
-<br>
-<br>
-****If you find anything that grabs your attention, leave a :star: or fork-ing would be really appreciated.****
-<hr>
-<br>
-<br>
+🔗 Repo: `llm-rag-platform`
 
-<a target="_blank" href="https://www.linkedin.com/in/pranshu-kumar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:pranshu1921@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/pranshu1921"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>      
-  
-  
+---
+
+### 🔹 Machine Learning Platform (End-to-End)
+**Tech**: Python, SQL, Pandas, Scikit-learn, Airflow-style orchestration  
+- Data ingestion → feature engineering → model training → evaluation  
+- Emphasis on reproducibility and modular design  
+- Clear separation of data, training, and inference layers  
+
+🔗 Repo: `ml-production-pipeline`
+
+---
+
+### 🔹 Business-Focused ML Case Study
+**Tech**: Python, SQL, ML, Analytics  
+- Translating ambiguous business problems into ML solutions  
+- KPI-driven modeling and post-deployment analysis  
+- Strong emphasis on decision-making, not just accuracy  
+
+🔗 Repo: `applied-ml-case-studies`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python, SQL
+
+**ML & AI**
+- Scikit-learn, PyTorch (working knowledge)
+- LLMs (OpenAI, open-source)
+- RAG, embeddings, vector search
+
+**Data & Analytics**
+- Pandas, NumPy
+- Feature engineering & data validation
+
+**MLOps & Infra**
+- Docker
+- CI/CD concepts
+- Model versioning & monitoring (foundational)
+
+**Cloud (working experience)**
+- AWS / GCP (ML workflows & deployment concepts)
+
+---
+
+## 📚 Background
+
+- 🎓 **Master’s in Data Analytics** – Northeastern University  
+- 💼 Experience across consulting, product, and data-driven teams  
+- 🔍 Strong bridge between **business context and technical execution**
+
+---
+
+## 📈 How I Think About AI
+
+I believe strong AI engineers:
+- Start with **problem framing**, not models  
+- Treat data pipelines as **first-class systems**  
+- Optimize for **maintainability over cleverness**  
+- Measure success using **business and user impact**, not just metrics
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pranshu-kumar-premi  
+- 📧 Email: pranshu1921@gmail.com  
+
+If you’re building **data-intensive or AI-powered products**, I’d love to collaborate or chat.
+
+---
+
+⭐ If you find something useful here, feel free to star a repo or start a discussion.

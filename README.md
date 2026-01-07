@@ -102,8 +102,8 @@ I believe strong AI engineers:
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pranshu-kumar-premi  
-- 📧 Email: pranshu1921@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pranshu-kumar
+- 📧 Email: pranshukumarpremi@gmail.com  
 
 If you’re building **data-intensive or AI-powered products**, I’d love to collaborate or chat.
 

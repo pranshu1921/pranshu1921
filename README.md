@@ -1,5 +1,5 @@
 # Hi, I'm Pranshu Kumar Premi 👋  
-### Data Scientist • AI Engineer • Applied ML & GenAI Systems
+
 
 I design, build, and deploy **production-grade machine learning and AI systems** that solve real business problems at scale.  
 My work spans **classical ML, LLM-based systems, data pipelines, and MLOps**, with a strong focus on **robustness, performance, and real-world impact**.

@@ -60,7 +60,7 @@ This mirrors how modern AI teams build **trustworthy, debuggable LLM systems** f
 - KPI-driven modeling and post-deployment analysis  
 - Strong emphasis on decision-making, not just accuracy  
 
-🔗 Repo: `applied-ml-case-studies`
+🔗 Repo: [applied-ml-case-studies](https://github.com/pranshu1921/applied-ml-case-studies)
 
 ---
 

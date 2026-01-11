@@ -40,7 +40,7 @@ A production-style Retrieval-Augmented Generation (RAG) system that uses **agent
 
 This mirrors how modern AI teams build **trustworthy, debuggable LLM systems** for enterprise search and internal copilots.
 
-🔗 Repo: `agentic-rag-document-search`
+🔗 Repo: [agentic-rag-document-search](https://github.com/pranshu1921/agentic-rag-document-search)
 
 ---
 
@@ -50,7 +50,7 @@ This mirrors how modern AI teams build **trustworthy, debuggable LLM systems** f
 - Emphasis on reproducibility and modular design  
 - Clear separation of data, training, and inference layers  
 
-🔗 Repo: `ml-production-pipeline`
+🔗 Repo: [ml-production-pipeline](https://github.com/pranshu1921/ml-production-pipeline)
 
 ---
 

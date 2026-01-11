@@ -49,7 +49,7 @@ I care deeply about **clean abstractions, reproducibility, and measurable outcom
 
 > These repositories reflect how I think about **real-world AI systems**, not toy demos.
 
-### 🔹 [Agentic RAG Document Search Platform](https://github.com/pranshu1921/agentic-rag-document-search)
+### 🔹 [Agentic RAG Document Search Platform](https://github.com/pranshu1921/Agentic-RAG-Document-Search-System)
 
 **Tech**: Python, LangGraph, LangChain, OpenAI, FAISS, Streamlit  
 **Impact**: Production-ready RAG system with <2s query latency and transparent source attribution

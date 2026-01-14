@@ -106,7 +106,7 @@ A Retrieval-Augmented Generation (RAG) system that uses **agentic reasoning** to
 - Docker-ready for deployment
 - Built-in evaluation hooks for answer quality
 
-🔗 **[View Repository →](https://github.com/pranshu1921/agentic-rag-document-search)**
+🔗 **[View Repository →](https://github.com/pranshu1921/Agentic-RAG-Document-Search-System)**
 
 ---
 

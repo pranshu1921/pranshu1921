@@ -1,13 +1,13 @@
 # Hi, I'm Pranshu Kumar Premi 👋  
 
-I design, build, and deploy **production-grade ML systems** that have **reduced operational costs by 90%**, **prevented $2.4M in losses**, and **served 1,000+ users** across energy, telecommunications, and technology companies.
+I build production-grade ML and GenAI systems (RAG, fraud detection, MLOps) across AWS and Azure, focused on shipping reliable models that improve real business workflows.
 
-My work spans **classical ML, LLM-based systems, data pipelines, and MLOps**, with a proven track record of turning complex data challenges into **measurable business impact**.
+My work spans classical ML, LLM-based systems, data pipelines, and MLOps, with experience delivering solutions in energy, telecommunications, and technology environments—optimizing for latency, quality, and operational efficiency in production.
 
 🎯 **Target roles**: Data Scientist (Product), ML Engineer, AI Engineer  
 🎯 **Currently focused on**:  
 - Production LLM applications (RAG, agentic systems, evaluation frameworks)  
-- Scalable ML pipelines & advanced feature engineering  
+- Scalable ML pipelines and advanced feature engineering  
 - AI system design for data-intensive products  
 
 📍 **Location**: Raleigh, NC | Open to Remote & Hybrid roles  

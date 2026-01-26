@@ -17,166 +17,127 @@ My work spans classical ML, LLM-based systems, data pipelines, and MLOps, with e
 
 ## 🏆 Credentials & Highlights
 
-- ✅ **AWS Certified Cloud Practitioner**
-- ✅ **HashiCorp Certified: Terraform Associate**
-- ✅ **Google Data Analytics Professional Certificate**
-- ✅ **IBM Data Science Professional Certificate**
-- 🎓 **Master's in Data Analytics** – Northeastern University
-- 💼 **5+ years** building ML systems across consulting, product, and data-driven teams
-- 🚀 **Deployed 9 production ML pipelines** on AWS SageMaker serving critical business operations
+- 🎓 **Master’s in Data Analytics** – Northeastern University  
+- 💼 **3.5+ years** building production ML systems across consulting and product teams  
+- 🚀 **Deployed 9 production ML pipelines** on AWS SageMaker supporting business-critical workflows  
+
+- 🏅 **Azure Data Scientist Associate**  
+- 🏅 **HashiCorp Certified: Terraform Associate**  
+- 📜 **IBM Data Science Professional Certificate**  
+- 📜 **Google Data Analytics Professional Certificate**
+
+
+---
+
+## 🚀 Featured Projects
+
+> These repositories reflect how I design and ship real-world AI systems, not notebook demos.
+
+---
+
+### 🔹 ShopAssist RAG: AI-Powered E-Commerce Assistant  
+Production RAG system for customer support over 150K+ product, review, and policy documents.
+
+- LangChain-based retrieval with vector search and source-grounded answers  
+- Sub-10ms cached responses; cold queries typically under ~1.5s in local benchmarks  
+- Evaluation harness with 15+ domain-specific test queries  
+- Dockerized FastAPI backend with Streamlit UI for interactive exploration  
+
+**Why this matters:** Demonstrates how to build reliable, cost-aware RAG systems that can augment or replace human support workflows while remaining debuggable and transparent.
+
+🔗 **View Repository:** https://github.com/pranshu1921/shopassist-rag  
+*(Includes architecture diagram and reproducible benchmarks.)*
+
+---
+
+### 🔹 Agentic RAG Document Search Platform  
+Enterprise-style RAG system using agentic reasoning over custom knowledge bases.
+
+- LangGraph orchestration for multi-step reasoning and tool selection  
+- FAISS vector store for efficient semantic search  
+- ReAct-style agent with deterministic source citation  
+- Modular ingestion for URLs and local documents (PDF/TXT/DOCX)  
+
+**Why this matters:** Mirrors how modern AI teams build trustworthy internal copilots and knowledge systems that can be inspected, debugged, and extended.
+
+🔗 **View Repository:** https://github.com/pranshu1921/Agentic-RAG-Document-Search-System  
+*(Includes architecture overview and evaluation hooks.)*
+
+---
+
+### 🔹 Machine Learning Production Pipeline  
+End-to-end ML system emphasizing maintainability and production correctness.
+
+- Data ingestion → feature engineering → training → evaluation → inference  
+- Clear separation of data, training, and serving layers  
+- Reproducible experiments with versioning and automated tests  
+- Dockerized inference service with CI/CD-ready structure  
+
+**Why this matters:** Shows how to take a model from notebook to production in a way teams can operate, extend, and trust.
+
+🔗 **View Repository:** https://github.com/pranshu1921/ml-production-pipeline
+
+---
+
+### 🔹 Applied ML Case Studies: Churn & Fraud Detection  
+Business-first ML case studies focused on decisions, not just accuracy.
+
+- Churn modeling with cost-benefit thresholding and retention strategies  
+- Fraud detection under class imbalance with precision-recall tradeoffs  
+- End-to-end pipelines from raw data to actionable recommendations  
+
+**Why this matters:** Demonstrates how to translate ambiguous business problems into ML systems that drive real decisions.
+
+🔗 **View Repository:** https://github.com/pranshu1921/applied-ml-case-studies
+
 
 ---
 
 ## 🧠 What I Work On
 
 **Applied Machine Learning**  
-Predictive modeling, NLP, feature engineering, experimentation, and A/B testing
+Designing predictive models and experiments that solve concrete business problems, from churn and fraud to operational forecasting.
 
-**Generative AI & LLMs**  
-RAG pipelines, agentic systems, prompt engineering, evaluation frameworks (RAGAS, custom metrics)
+**Generative AI & LLM Systems**  
+Building production RAG and agentic workflows with an emphasis on evaluation, reliability, and source-grounded answers.
 
 **Production ML Systems**  
-Model deployment, monitoring, CI/CD, versioning, and performance optimization
+Taking models from notebook to production through deployment, monitoring, CI/CD, and performance tuning.
 
 **Data Engineering for ML**  
-SQL-first design, ETL pipelines, data quality validation, and analytics-ready datasets
+Designing SQL-first pipelines, feature stores, and data quality checks that make ML systems reliable at scale.
 
-I care deeply about **clean abstractions, reproducibility, and measurable outcomes**.
+I gravitate toward work where models become real systems that teams can trust and operate in production.
 
----
-
-## 🚀 Featured Projects
-
-> These repositories reflect how I think about **real-world AI systems**, not toy demos.
-
-### 🔹 [ShopAssist RAG: AI-Powered E-Commerce Assistant](https://github.com/pranshu1921/shopassist-rag)
-
-**Tech**: Python, LangChain, ChromaDB, OpenAI, FastAPI, Streamlit, Docker  
-**Impact**: Production RAG system with <10ms cached responses, 85% retrieval accuracy, and multi-source knowledge integration
-
-An intelligent shopping assistant that combines **semantic search with LLMs** to answer customer questions by retrieving information from 150K+ documents (products, reviews, policies).
-
-**Key Features:**
-- 🔍 **Semantic search** across 50K products, 100K reviews, and store policies
-- ⚡ **Performance optimization**: Sub-10ms cached responses (300x faster than cold queries)
-- 📊 **Source attribution**: Transparent citations with relevance scores
-- 🔌 **REST API**: FastAPI backend with automatic OpenAPI documentation
-- 🎨 **Interactive UI**: Streamlit interface for real-time exploration
-- 🐳 **Production-ready**: Docker deployment, comprehensive testing, monitoring
-
-**Why this matters:** This demonstrates how to build **trustworthy, cost-effective RAG systems** that solve real business problems—reducing customer service load by ~30% while maintaining answer accuracy and user trust through source transparency.
-
-**Technical Highlights:**
-- Optimized chunking strategy (500 chars, 50 overlap) after experimentation
-- Intelligent caching reduces OpenAI API costs by 80%
-- Evaluation framework with 15+ test queries across product/review/policy domains
-- Complete MLOps setup: CI/CD, logging, error handling, performance metrics
-- Modular architecture: easy to swap embeddings, LLMs, or vector stores
-
-**Business Impact:**
-- Processes 1,000 queries for ~$0.51 in API costs
-- Scales to handle millions of queries with minimal infrastructure
-- Estimated 15-20 hours/week savings in customer support time
-- Clear ROI: <$0.001 cost per query vs. $5-15 per human support interaction
-
-🔗 **[View Repository →](https://github.com/pranshu1921/shopassist-rag)**
-
----
-
-### 🔹 [Agentic RAG Document Search Platform](https://github.com/pranshu1921/Agentic-RAG-Document-Search-System)
-
-**Tech**: Python, LangGraph, LangChain, OpenAI, FAISS, Streamlit  
-**Impact**: Production-ready RAG system with <2s query latency and transparent source attribution
-
-A Retrieval-Augmented Generation (RAG) system that uses **agentic reasoning** to deliver source-grounded answers over custom knowledge bases.
-
-**Key Features:**
-- 📄 Ingests knowledge from **URLs and local documents** (PDF/TXT/DOCX)
-- 🔍 **FAISS vector store** for efficient semantic search
-- 🤖 **LangGraph orchestration** for multi-step reasoning flows
-- 🧠 **ReAct agent** that dynamically decides tool usage at runtime
-- 📊 **Source citation** for every answer (transparency & debugging)
-- 🎨 **Streamlit UI** for interactive exploration
-
-**Why this matters:** This mirrors how modern AI teams build **trustworthy, debuggable LLM systems** for enterprise search, internal copilots, and knowledge management platforms.
-
-**Technical Highlights:**
-- Handles 1000+ document corpus
-- Modular pipeline design (easy to swap embeddings/LLMs)
-- Docker-ready for deployment
-- Built-in evaluation hooks for answer quality
-
-🔗 **[View Repository →](https://github.com/pranshu1921/Agentic-RAG-Document-Search-System)**
-
----
-
-### 🔹 [Machine Learning Production Pipeline](https://github.com/pranshu1921/ml-production-pipeline)
-
-**Tech**: Python, SQL, Pandas, Scikit-learn, Docker  
-**Focus**: End-to-end ML system design with emphasis on maintainability
-
-A complete ML pipeline demonstrating **production-grade architecture**:
-- Data ingestion → feature engineering → model training → evaluation → deployment
-- Clear separation of concerns (data layer, training layer, inference layer)
-- Reproducible experiments with versioning
-- Automated testing and validation
-
-**What you'll learn:**
-- How to structure ML projects for team collaboration
-- Feature engineering patterns that scale
-- Model evaluation beyond accuracy (business metrics, fairness, robustness)
-- Production deployment considerations
-
-🔗 **[View Repository →](https://github.com/pranshu1921/ml-production-pipeline)**
-
----
-
-### 🔹 [Applied ML Case Studies: Churn & Fraud Detection](https://github.com/pranshu1921/applied-ml-case-studies)
-
-**Tech**: Python, SQL, Scikit-learn, Business Analytics  
-**Focus**: Translating messy business problems into ML solutions
-
-Real-world case studies emphasizing **decisions over accuracy**:
-- **Customer Churn**: Cost-benefit analysis, retention strategies, threshold optimization
-- **Fraud Detection**: Imbalanced data handling, precision-recall tradeoffs, operational constraints
-- **End-to-end pipelines**: Data → models → metrics → actionable insights
-
-**Key Philosophy:**
-- Start with business KPIs, not model accuracy
-- Threshold selection based on real costs/benefits
-- Clear documentation for stakeholder communication
-- Reports that non-technical leaders can act on
-
-🔗 **[View Repository →](https://github.com/pranshu1921/applied-ml-case-studies)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **ML & AI** (Expert Level)
-- **Classical ML**: Scikit-learn (custom transformers, pipeline optimization), XGBoost, LightGBM
-- **Deep Learning**: PyTorch (NLP tasks, neural networks), TensorFlow
-- **LLM Tools**: LangChain, LangGraph, OpenAI API, prompt engineering
-- **Vector Search**: FAISS, ChromaDB, embeddings (OpenAI, HuggingFace)
-- **Evaluation**: Custom metrics, RAGAS framework, A/B testing
+### **ML & AI** (Primary Stack)
+- Classical ML: Scikit-learn (custom transformers, pipeline optimization), XGBoost, LightGBM  
+- Deep Learning: PyTorch (NLP, neural models), TensorFlow  
+- LLM Systems: LangChain, LangGraph, OpenAI API, prompt engineering  
+- Vector Search: FAISS, ChromaDB, embeddings (OpenAI, HuggingFace)  
+- Evaluation: Custom metrics, RAGAS framework, A/B testing  
 
 ### **Data & Analytics**
-- **Languages**: Python (advanced), SQL (complex queries, optimization), R
-- **Libraries**: Pandas, NumPy, Polars (emerging)
-- **Feature Engineering**: Domain-specific transformations, time series features
-- **Data Quality**: Great Expectations, custom validation frameworks
+- Languages: Python, SQL (complex queries, optimization), R  
+- Libraries: Pandas, NumPy, Polars  
+- Feature Engineering: Domain-specific transformations, time series features  
+- Data Quality: Great Expectations, custom validation frameworks  
 
 ### **MLOps & Infrastructure**
-- **Cloud**: AWS (SageMaker, Glue, Lambda, S3, Athena), Azure (OpenAI, AI Search, DevOps)
-- **Orchestration**: Apache Airflow concepts, AWS Step Functions
-- **IaC**: Terraform (multi-account setups, state management)
-- **Containerization**: Docker, Docker Compose
-- **CI/CD**: GitHub Actions, automated testing
-- **Monitoring**: Model performance tracking, data drift detection
+- Cloud: AWS (SageMaker, Glue, Lambda, S3, Athena), Azure (OpenAI, AI Search, DevOps)  
+- Orchestration: Apache Airflow, AWS Step Functions  
+- Infrastructure as Code: Terraform (multi-account setups, state management)  
+- Containerization: Docker, Docker Compose  
+- CI/CD: GitHub Actions, automated testing  
+- Monitoring: Model performance tracking, data drift detection  
 
 ### **Visualization & BI**
-- **Tools**: Tableau, Power BI, Streamlit
-- **Libraries**: Matplotlib, Seaborn, Plotly
+- Tools: Tableau, Power BI, Streamlit  
+- Libraries: Matplotlib, Seaborn, Plotly  
 
 ---
 
@@ -184,56 +145,39 @@ Real-world case studies emphasizing **decisions over accuracy**:
 
 I believe strong AI engineers:
 
-✅ **Start with problem framing**, not models – understand the business context first  
-✅ **Treat data pipelines as first-class systems** – garbage in, garbage out  
-✅ **Optimize for maintainability over cleverness** – code is read more than written  
-✅ **Measure success using business impact** – not just accuracy or F1 scores  
-✅ **Build systems that explain themselves** – transparency builds trust  
-✅ **Plan for failure modes** – what happens when the model is wrong?
+- Start with problem framing, not models  
+- Treat data pipelines as first-class systems  
+- Optimize for maintainability over cleverness  
+- Measure success using business impact  
+- Build systems that explain themselves  
+- Plan explicitly for failure modes  
 
 ---
 
 ## 🔬 Currently Exploring
 
-- 🧪 Advanced RAG architectures (hybrid search, re-ranking, query decomposition)
-- 🎯 LLM evaluation frameworks (RAGAS, custom metrics for domain-specific tasks)
-- 🔍 Fine-tuning open-source models (Llama 3, Mistral)
-- 📊 Production monitoring for LLM systems (cost tracking, latency, hallucination detection)
+- Advanced RAG architectures (hybrid search, re-ranking, query decomposition)  
+- LLM evaluation frameworks (RAGAS, domain-specific metrics)  
+- Fine-tuning and adapting open-source models (Llama 3, Mistral)  
+- Production monitoring for LLM systems (cost, latency, hallucination detection)  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-### **I'm actively seeking:**
-🎯 **Data Scientist / ML Engineer / AI Engineer roles** (Remote or Hybrid)  
-🎯 **Contract/consulting projects** in AI/ML system design  
-🎯 **Technical collaborations** on production AI systems
+**Seeking:**  
+- Data Scientist, ML Engineer, and AI Engineer roles (Remote or Hybrid)  
+- Contract or consulting projects in AI/ML system design  
 
-### **Happy to discuss:**
-💡 RAG system architecture and evaluation  
-💡 MLOps best practices and scaling challenges  
-💡 Bridging the gap between research and production  
-💡 Career advice for aspiring ML engineers
+**Happy to discuss:**  
+- RAG system architecture and evaluation  
+- MLOps best practices and scaling challenges  
+- Bridging the gap between research and production  
 
-### **Best ways to reach me:**
-- 💼 **LinkedIn**: [linkedin.com/in/pranshu-kumar](https://www.linkedin.com/in/pranshu-kumar)
-- 📧 **Email**: pranshukumarpremi@gmail.com
-- 💻 **GitHub**: You're already here! Feel free to open issues or start discussions
+**Reach me at:**  
+- LinkedIn: https://www.linkedin.com/in/pranshu-kumar  
+- Email: pranshukumarpremi@gmail.com  
 
 ---
 
-## 🤝 Contributing
-
-Issues and PRs are welcome! I'm particularly interested in:
-- ⚡ Performance optimizations for RAG systems
-- 📚 New data sources and connectors
-- 🧪 Alternative LLM providers and embeddings
-- 📊 Evaluation metrics and benchmarks
-
----
-
-⭐ **If you find something useful here, feel free to star a repo or reach out!**
-
----
-
-*"The best ML systems are the ones that actually ship and create value."*
+⭐ *If you find something useful here, feel free to star a repo or reach out.*

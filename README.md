@@ -1,35 +1,35 @@
-# Hi, I'm Pranshu Kumar Premi 👋  
+# Hi, I'm Pranshu Kumar Premi 
 
 I build production-grade ML and GenAI systems (RAG, fraud detection, MLOps) across AWS and Azure, focused on shipping reliable models that improve real business workflows.
 
 My work spans classical ML, LLM-based systems, data pipelines, and MLOps, with experience delivering solutions in energy, telecommunications, and technology environments—optimizing for latency, quality, and operational efficiency in production.
 
-🎯 **Target roles**: Data Scientist (Product), ML Engineer, AI Engineer  
-🎯 **Currently focused on**:  
+**Target roles**: Data Scientist (Product), ML Engineer, AI Engineer  
+**Currently focused on**:  
 - Production LLM applications (RAG, agentic systems, evaluation frameworks)  
 - Scalable ML pipelines and advanced feature engineering  
 - AI system design for data-intensive products  
 
-📍 **Location**: Raleigh, NC | Open to Remote & Hybrid roles  
-📌 **Status**: Actively seeking new opportunities
+**Location**: Raleigh, NC | Open to Remote & Hybrid roles  
+**Status**: Actively seeking new opportunities
 
 ---
 
-## 🏆 Credentials & Highlights
+## Credentials & Highlights
 
-- 🎓 **Master’s in Data Analytics** – Northeastern University  
-- 💼 **3.5+ years** building production ML systems across consulting and product teams  
-- 🚀 **Deployed 9 production ML pipelines** on AWS SageMaker supporting business-critical workflows  
+- **Master’s in Data Analytics** – Northeastern University  
+- **3.5+ years** building production ML systems across consulting and product teams  
+- **Deployed 9 production ML pipelines** on AWS SageMaker supporting business-critical workflows  
 
-- 🏅 **Azure Data Scientist Associate**  
-- 🏅 **HashiCorp Certified: Terraform Associate**  
-- 📜 **IBM Data Science Professional Certificate**  
-- 📜 **Google Data Analytics Professional Certificate**
+- **Azure Data Scientist Associate**  
+- **HashiCorp Certified: Terraform Associate**  
+- **IBM Data Science Professional Certificate**  
+- **Google Data Analytics Professional Certificate**
 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 > These repositories reflect how I design and ship real-world AI systems, not notebook demos.
 
@@ -93,7 +93,7 @@ Business-first ML case studies focused on decisions, not just accuracy.
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 **Applied Machine Learning**  
 Designing predictive models and experiments that solve concrete business problems, from churn and fraud to operational forecasting.
@@ -112,7 +112,7 @@ I gravitate toward work where models become real systems that teams can trust an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **ML & AI** (Primary Stack)
 - Classical ML: Scikit-learn (custom transformers, pipeline optimization), XGBoost, LightGBM  
@@ -141,7 +141,7 @@ I gravitate toward work where models become real systems that teams can trust an
 
 ---
 
-## 📈 How I Think About AI
+## How I Think About AI
 
 I believe strong AI engineers:
 
@@ -154,7 +154,7 @@ I believe strong AI engineers:
 
 ---
 
-## 🔬 Currently Exploring
+## Currently Exploring
 
 - Advanced RAG architectures (hybrid search, re-ranking, query decomposition)  
 - LLM evaluation frameworks (RAGAS, domain-specific metrics)  
@@ -163,7 +163,7 @@ I believe strong AI engineers:
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 **Seeking:**  
 - Data Scientist, ML Engineer, and AI Engineer roles (Remote or Hybrid)  

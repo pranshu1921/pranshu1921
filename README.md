@@ -64,6 +64,21 @@ View repository: https://github.com/pranshu1921/shopassist-rag
 
 ---
 
+### Fraud Detection System: XGBoost + Autoencoder Ensemble
+
+Two-stage e-commerce fraud detection system on 590K IEEE-CIS transactions. Combines supervised and unsupervised ML to catch both known fraud patterns and novel attacks no labeled data exists for yet.
+
+- PyTorch Autoencoder trained exclusively on legitimate transactions. Learns normal behavior unsupervised. Flags novel fraud via reconstruction error before any labeled examples of that pattern exist.
+- XGBoost classifier with temporal cross-validation (not random split, which causes data leakage on fraud data), scale_pos_weight for 3.5% class imbalance, and SHAP explainability per flagged transaction.
+- Logistic meta-learner ensemble combines both scores. ROC-AUC 0.91 on held-out test set.
+- Great Expectations data validation, MLflow experiment tracking, Evidently AI drift monitoring, FastAPI inference endpoint, Streamlit analyst dashboard.
+
+Why this matters: mirrors the two-stage architecture used by production fraud teams at payments companies. Demonstrates that anomaly detection and classification solve different parts of the same problem and should be combined.
+
+View repository: https://github.com/pranshu1921/fraud-detection-xgboost-autoencoder
+
+---
+
 ### Agentic RAG Document Search Platform
 
 Production-style RAG system using agentic reasoning over custom knowledge bases.
